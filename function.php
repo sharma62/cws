@@ -17,6 +17,4 @@ function get_safe_value($str){
 	return $str;
 
 }   
-
-
 ?>
